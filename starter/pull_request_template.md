@@ -4,11 +4,11 @@ A clear and concise description of what this pull request covers.
 ## Benefits
 A clear and concise description of why you think this pull request is beneficial.
 
-## Alternatives
-A clear and concise description of any alternative solutions or features you've considered.
-
 ## Drawbacks
 A clear and concise description of any possible negative impacts this pull request could cause.
+
+## Alternatives
+A clear and concise description of any alternative solutions or features you've considered.
 
 ## Verification
 A clear and concise description of the process you followed to verify that your pull request has the desired effects.
