@@ -1,6 +1,6 @@
 {
-    "name": "@cloudeight/template",
-    "description": "A template containing all the base files used in a GitHub repository.",
+    "name": "github-boilerplate",
+    "description": "A boilerplate template containing all the base files used in a GitHub repository.",
     "version": "1.0.0",
     "license": "MIT",
     "author": {
@@ -9,14 +9,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/cloudeight/template.git"
+        "url": "https://github.com/cloudeight/github-boilerplate.git"
     },
-    "bugs": "https://github.com/cloudeight/template/issues",
-    "contributors": "https://github.com/cloudeight/template/graphs/contributors",
+    "bugs": "https://github.com/cloudeight/github-boilerplate/issues",
+    "contributors": "https://github.com/cloudeight/github-boilerplate/graphs/contributors",
     "keywords": [
         "cloudeight",
         "github",
         "repository",
+        "boilerplate",
         "template"
     ],
     "dependencies": {},
