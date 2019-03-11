@@ -9,10 +9,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/cloudeight/github-boilerplate.git"
+        "url": "https://github.com/joemottershaw/github-boilerplate.git"
     },
-    "bugs": "https://github.com/cloudeight/github-boilerplate/issues",
-    "contributors": "https://github.com/cloudeight/github-boilerplate/graphs/contributors",
+    "bugs": "https://github.com/joemottershaw/github-boilerplate/issues",
+    "contributors": "https://github.com/joemottershaw/github-boilerplate/graphs/contributors",
     "keywords": [
         "cloudeight",
         "github",
